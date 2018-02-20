@@ -1,0 +1,8 @@
+{
+	"version":"1.0.0",
+	"title":"KW40Z",
+	"copyright":"Zerynth Team",
+	"files":[
+		["KW40Z","kw40z.py"]
+	]
+}

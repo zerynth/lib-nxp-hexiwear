@@ -1,0 +1,32 @@
+{
+    "dependencies": {
+        "lib.ams.tsl2561": "r2.0.11",
+        "lib.maxim.max30101": "r2.0.11",
+        "lib.meas.htu21d": "r2.0.11",
+        "lib.nxp.fxas21002c": "r2.0.11",
+        "lib.nxp.fxos8700cq": "r2.0.11",
+        "lib.nxp.mpl3115a2": "r2.0.11",
+        "lib.solomon.ssd1351": "r2.0.11"
+    },
+    "description": "Driver for enabling and handling all Hexiwear features",
+    "fullname": "lib.nxp.hexiwear",
+    "git_pointer": "zerynth://zerynth-libs/nxp-hexiwear",
+    "info": {
+        "chip_manufacturer": "NXP",
+        "chip_name": "Hexiwear",
+        "name": "Hexiwear Device",
+        "type": "Sensor and Actuator"
+    },
+    "keywords": [
+        "nxp",
+        "hexiwear",
+        "bluetooth",
+        "kw40z",
+        "wearable",
+        "smartwatch"
+    ],
+    "repo": "official",
+    "title": "Library for Hexiwear Device",
+    "version": "r2.0.11",
+    "whatsnew": "First Release"
+}

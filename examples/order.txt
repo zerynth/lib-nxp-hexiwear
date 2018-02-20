@@ -1,0 +1,6 @@
+#Nxp
+    ##Hexiwear Lib
+        hexiwear_example
+        ###KW40Z
+		    ble_hexiwear
+		    ble_data_transmission

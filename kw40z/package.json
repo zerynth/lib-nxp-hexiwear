@@ -1,0 +1,19 @@
+{
+    "dependencies": {},
+    "description": "Driver for NXP KW40Z Bluetooth Low Energy Chip",
+    "fullname": "lib.nxp.kw40z",
+    "git_pointer": "zerynth://zerynth-libs/nxp-kw40z",
+    "keywords": [
+        "bluetooth",
+        "ble",
+        "low",
+        "energy",
+        "nxp",
+        "kw40z",
+        "hexiwear"
+    ],
+    "repo": "official",
+    "title": "KW40Z Bluetooth Low Energy",
+    "version": "r2.0.5",
+    "whatsnew": "First Release"
+}
