@@ -1,12 +1,12 @@
 {
     "dependencies": {
-        "lib.ams.tsl2561": "r2.0.11",
-        "lib.maxim.max30101": "r2.0.11",
-        "lib.meas.htu21d": "r2.0.11",
-        "lib.nxp.fxas21002c": "r2.0.11",
-        "lib.nxp.fxos8700cq": "r2.0.11",
-        "lib.nxp.mpl3115a2": "r2.0.11",
-        "lib.solomon.ssd1351": "r2.0.11"
+        "lib.ams.tsl2561": "r2.1.0",
+        "lib.maxim.max30101": "r2.1.0",
+        "lib.meas.htu21d": "r2.1.0",
+        "lib.nxp.fxas21002c": "r2.1.0",
+        "lib.nxp.fxos8700cq": "r2.1.0",
+        "lib.nxp.mpl3115a2": "r2.1.0",
+        "lib.solomon.ssd1351": "r2.1.0"
     },
     "description": "Driver for enabling and handling all Hexiwear features",
     "fullname": "lib.nxp.hexiwear",
@@ -27,6 +27,6 @@
     ],
     "repo": "official",
     "title": "Library for Hexiwear Device",
-    "version": "r2.0.11",
+    "version": "r2.1.0",
     "whatsnew": "First Release"
 }
