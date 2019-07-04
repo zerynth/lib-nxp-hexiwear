@@ -1,0 +1,17 @@
+---
+description: Driver for enabling and handling all Hexiwear features
+fullname: lib.nxp.hexiwear
+info:
+    chip_manufacturer: NXP
+    chip_name: Hexiwear
+    name: Hexiwear Device
+    type: Sensor and Actuator
+keywords:
+- nxp
+- hexiwear
+- bluetooth
+- kw40z
+- wearable
+- smartwatch
+title: Library for Hexiwear Device
+...

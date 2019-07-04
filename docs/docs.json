@@ -1,9 +1,0 @@
-{
-	"version":"1.0.0",
-	"title":"HEXIWEAR",
-	"copyright":"Zerynth Team",
-	"files":[
-		["HEXIWEAR","hexiwear.py"],
-		["KW40Z","kw40z/kw40z.py"]
-	]
-}
